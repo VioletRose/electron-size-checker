@@ -1,0 +1,17 @@
+{
+	"name": "size_checker",
+	"version": "1.0.0",
+	"description": "A minimal Electron app intended to demonstrate a browser window bug in Electron.",
+	"main": "./scripts/app.js",
+	"scripts": {
+		"start": "electron .",
+		"package": "electron-packager . --overwrite"
+	},
+	"repository": "https://github.com/VioletRose/electron-size-checker",
+	"author": "Violet Rose",
+	"license": "MIT",
+	"devDependencies": {
+		"electron": "^1.7.5",
+		"electron-packager": "^8.7.2"
+	}
+}
