@@ -1,6 +1,6 @@
 {
 	"name": "size_checker",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"description": "A minimal Electron app intended to demonstrate a browser window bug in Electron.",
 	"main": "./scripts/app.js",
 	"scripts": {
